@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'HISTÓRIA',
+    'Qual é o nome do maior Faraó do Egito?',
+    'Tutancâmon'
 )
 
 criaCartao(
@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'LITERATURA',
+    'Qual é a o bra mais conhecida de Machado de Assis ?',
+    'Memórias Póstumas de Brás Cubas'
 )
 
 criaCartao(
