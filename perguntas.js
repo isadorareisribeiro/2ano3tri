@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'PROGRAMAÇÃO',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Como criar uma senha forte?',
+    'Uma senha forte precisa ter no mínimo 10 caracteres incluindo letras maiúsculas, minúsculas, números e caracteres especiais.'
 )
 
 criaCartao(
