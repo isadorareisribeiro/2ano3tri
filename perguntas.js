@@ -1,11 +1,11 @@
 criaCartao(
-    'HISTÓRIA',
-    'Qual é o nome do maior Faraó do Egito?',
-    'Tutancâmon'
+    'PROGRAMAÇÃO',
+    'O que é programação?',
+    'Programar nada mais é do que escrever instruções para o computador em uma linguagem que ele entenda.'
 )
 
 criaCartao(
-    'Geografia',
+    'PROGRAMAÇÃO',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
